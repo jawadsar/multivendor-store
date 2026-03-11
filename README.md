@@ -1,2 +1,2 @@
 # multivendor-store
-A custom multi-vendor eCommerce platform with affiliate system, secure payments, and user-friendly interface.
+A custom multi-vendor eCommerce platform with an affiliate system, secure payments, and a user-friendly interface.
