@@ -2,7 +2,6 @@
 A custom multi-vendor eCommerce platform with an affiliate system, secure payments, and a user-friendly interface.
 # Multi-Vendor E-Commerce Store
 
-## Final Year Project Proposal
 
 ### Introduction
 
@@ -27,8 +26,6 @@ The main objective of this project is to develop a multi-vendor e-commerce platf
 * Responsive and user-friendly interface
 
 ### Technologies Used
-
-* WordPress
 * PHP
 * HTML
 * CSS
